@@ -5,20 +5,21 @@ body{
 }
 #d2{
 	width: 84%;
-	height:650px;
+	height:65%;
 	margin-top:30%;
 	margin-left:8%;
 }
 #d1{
 	font-family: "楷体";
-	font-size: 60px;
+
 	text-align: center;
 }
 input{
 	position: relative;
-	width:500px;
-	height: 210px;
-	font-size: 50px;
+	width:210px;
+	height: 120px;
+	font-size: 35px;
+	margin-top:100px;
 	background-image: url(img/按钮.jpg);
 	border-radius: 15%;
 }
