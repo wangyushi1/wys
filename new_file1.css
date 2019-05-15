@@ -3,16 +3,11 @@ body{
     text-align: center;
 	background-image: url(img/22.jpg);
 }
-#d2{
-	width: 84%;
-	height:650px;
-	margin-top:30%;
-	margin-left:8%;
-}
 #d1{
 	font-family: "楷体";
 	font-size: 60px;
-	text-align: center;
+	margin-top:350px;
+	margin-left:100px;
 }
 input{
 	position: relative;
@@ -22,9 +17,4 @@ input{
 	background-image: url(img/按钮.jpg);
 	border-radius: 15%;
 }
-#a1{
-	font-family: "楷体";
-	font-size: 60px;
-	margin-top:45%;
-	
-}
+
