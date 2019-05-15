@@ -1,4 +1,6 @@
 body{
+    margin: 0px; 
+    text-align: center;
 	background-image: url(img/22.jpg);
 }
 div{
@@ -11,11 +13,11 @@ div{
 	text-align: center;
 }
 input{
-	position: relative;
-	top: 200px;
+	align-content: center;
+	
 	width: 400px;
 	height: 170px;
-	left: 300px;
+	
 	
 	font-size: 50px;
 	background-image: url(img/按钮.jpg);
