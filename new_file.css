@@ -1,0 +1,23 @@
+body{
+	background-image: url(img/22.jpg);
+}
+div{
+	position: relative;
+	top: 500px;
+}
+#d1{
+	font-family: "楷体";
+	font-size: 60px;
+	text-align: center;
+}
+input{
+	position: relative;
+	top: 200px;
+	width: 400px;
+	height: 170px;
+	left: 300px;
+	
+	font-size: 50px;
+	background-image: url(img/按钮.jpg);
+	border-radius: 15%;
+}
