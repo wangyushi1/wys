@@ -4,8 +4,8 @@ body{
 	background-image: url(img/22.jpg);
 }
 div{
-	position: relative;
-	top: 500px;
+	align-content: center;
+     margin-top:35%;
 }
 #d1{
 	font-family: "楷体";
