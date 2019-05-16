@@ -4,6 +4,8 @@ body {
 	background-repeat: no-repeat;
 	background-position: top left;
 	background-attachment: fixed;
+	margin:0px;
+	text-align: center;
 }
 
 #d1{
@@ -12,11 +14,11 @@ body {
 	text-align: center;
 }
 input{
-	width:210px;
+	width:160px;
 	height: 60px;
-	font-size: 25px;
+	font-size:15px;
 	margin-top:15px;
-	margin-left:35px;
+	margin-left:15px;
 	background-image: url(img/按钮.jpg);
 	border-radius: 15%;
 }
