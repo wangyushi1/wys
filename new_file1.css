@@ -12,12 +12,11 @@ body {
 	text-align: center;
 }
 input{
-	position: relative;
 	width:210px;
-	height: 80px;
+	height: 60px;
 	font-size: 25px;
 	margin-top:15px;
-	margin-left:45px;
+	margin-left:35px;
 	background-image: url(img/按钮.jpg);
 	border-radius: 15%;
 }
