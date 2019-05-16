@@ -1,7 +1,7 @@
 body {
 	background-image: url(img/22.jpg);
-	margin:0px;
-	text-align: center;
+	/*margin:0px;
+	text-align: center;*/
 }
 
 #d1{
@@ -10,11 +10,12 @@ body {
 	margin-top:40%;
 	margin-left:8%;
 }
-#d1>h2{
+#d1>h4{
 	text-align: center;
 }
 #d2{
-	position: relative;
+	display: flex;
+	justify-content: center;
 	
 }
 #a1{

@@ -1,11 +1,11 @@
 body {
 	background-image: url(img/22.jpg);
-	background-size: 100% 100%;
+	/*background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: top left;
 	background-attachment: fixed;
 	margin:0px;
-	text-align: center;
+	text-align: center;*/
 }
 
 #d1{
@@ -18,7 +18,7 @@ input{
 	height: 60px;
 	font-size:15px;
 	margin-top:15px;
-	margin-left:15px;
+	margin-left:80px;
 	background-image: url(img/按钮.jpg);
 	border-radius: 15%;
 }
